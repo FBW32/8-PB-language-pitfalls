@@ -44,3 +44,5 @@ console.log(Infinity / Infinity); // NaN
 // Divide 1 by 0. 
 
 console.log(1 / 0);  // Infinity 
+
+// test
