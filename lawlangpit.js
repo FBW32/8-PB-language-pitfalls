@@ -8,7 +8,11 @@ console.log(myNum *3);   // 30
 
 // 2. Rounding 
 
-console.log(Math.round(0.020000000000000004));  //0
+console.log(0.1 * 0.2);  //0.020000000000000004
+
+let numObj = 0.020000000000000004;
+console.log(numObj.toFixed(2)); // 0.02
+
 
 //.3 Infinity
 
